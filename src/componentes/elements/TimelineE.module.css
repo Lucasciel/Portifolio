@@ -1,0 +1,58 @@
+.timelinE {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.container {
+    width: 20%;
+    height: 200px;
+}
+
+.timelinE p {
+    padding: 2%;
+}
+
+.lineborder{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.lineborder0{
+    background-color: aliceblue;
+    width: 48%;
+    height: 10px;
+}
+
+.lineborder0n{
+    background-color: none;
+    width: 49.2% !important;
+    height: 10px;
+}
+
+.lineborder1{
+    background-color: aliceblue;
+    border-radius: 20px;
+    height: 29px;
+    width: 33px;
+}
+
+.lineborder2{
+    
+    background-color: aliceblue;
+    width: 49%;
+    height: 10px;
+
+}
+
+.lineborder2n{
+    
+    background-color: none;
+    width: 49.2% !important;
+    height: 10px;
+
+}
+

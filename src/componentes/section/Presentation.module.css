@@ -1,0 +1,13 @@
+
+.presentation{
+    margin: 100px 0px 100px 10% ;
+}
+
+.presentation p {
+    margin-left: 30px;
+    color: #BCBCBC;
+}
+
+.presentation button{
+    margin: 50px;
+}

@@ -1,0 +1,15 @@
+.ButtonA button  {
+    cursor: pointer;
+    padding: 20px;
+    width: 200px;
+    font-size: 18px;
+    font-weight: bolder;
+    border-radius: 30px;
+    border: none;
+    background-image: linear-gradient(
+        to left,
+        #13ADC7 30%,
+        #6978D1,
+        #945DD6
+    )
+}

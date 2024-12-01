@@ -25,3 +25,20 @@
     color: aliceblue !important;
     text-decoration: none;
 }
+
+
+@media (max-width: 859px) {
+    .Navbar {
+        padding: 1em 1em 1em 0;
+    }
+    .Navbar ul {
+        padding: 0px;
+    }
+}
+
+@media (max-width: 592px) {
+    .Navbar {
+        flex-direction: column;
+    }
+   
+}

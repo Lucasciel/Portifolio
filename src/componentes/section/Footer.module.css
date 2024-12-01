@@ -18,3 +18,9 @@
     padding: 30px;
     font-size: 20px;
 }
+
+@media (max-width: 859px) {
+    .footer {
+        flex-direction: column;
+    }
+}

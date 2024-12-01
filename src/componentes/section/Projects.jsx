@@ -1,4 +1,3 @@
-import portfolio from '../../images/portfolio.svg'
 import Project from '../elements/project'
 import style from './Projects.module.css' 
 import ccxp from '../../images/ccxp.svg'

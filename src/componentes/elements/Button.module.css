@@ -11,5 +11,11 @@
         #13ADC7 30%,
         #6978D1,
         #945DD6
-    )
+    );
+    transition: 0.5s;
+}
+
+.ButtonA button:hover  {
+    width: 200px;
+    transform: translateY(-5px)
 }

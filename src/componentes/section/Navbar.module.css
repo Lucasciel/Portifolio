@@ -40,5 +40,15 @@
     .Navbar {
         flex-direction: column;
     }
+    .Navbar li {
+        list-style: none;
+        margin-right: 0px;
+        text-align: center;
+    
+    }
+
+    .Navbar ul {
+        gap: 16px;
+    }
    
 }

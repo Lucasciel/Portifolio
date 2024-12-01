@@ -24,3 +24,15 @@
         flex-direction: column;
     }
 }
+
+@media (max-width: 566px) {
+    .footer {
+        flex-direction: column;
+    }
+    .footer ul:first-child {
+        flex-direction: column;
+    }
+    .footer ul {
+        padding: 0;
+    }
+}

@@ -11,3 +11,11 @@
 .presentation button{
     margin: 50px;
 }
+
+
+@media (max-width: 592px) {
+    .presentation {
+        margin: 100px 0px 100px 0 ;
+    }
+   
+}

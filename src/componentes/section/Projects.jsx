@@ -5,6 +5,8 @@ import ccxp from '../../images/ccxp.svg'
 import google from '../../images/google.svg'
 import landingpage from '../../images/landingpage.svg'
 import previsao from '../../images/previsao.svg'
+import landingpageForm from '../../images/landingpageForm.svg'
+import oldPortifolio from '../../images/oldPortifolio.svg'
 
 function Projects() {
     return (
@@ -39,6 +41,20 @@ function Projects() {
                     link='https://projeto-api-lucas.netlify.app/'
                     title='Projeto Previsão do tempo'
                     description='consumo de API para obter previsão do tempo'
+                    text='aaaa'
+                />
+                <Project
+                    image={landingpageForm}
+                    link='https://clinquant-centaur-85180c.netlify.app/'
+                    title='Landing-Page com formulario'
+                    description='ultilizando banco de dados e envio de formulario'
+                    text='aaaa'
+                />
+                <Project
+                    image={oldPortifolio}
+                    link='https://portfolio-one-blond-77.vercel.app/'
+                    title='Portifolio antigo'
+                    description='meu primeiro portfolio'
                     text='aaaa'
                 />
             </div>

@@ -45,11 +45,12 @@ function Presentation() {
         <div className={style.presentation}> 
 
             <h1 id='Sobremim'>Olá, eu sou {text}</h1>
-            <p>Estou no 6° periodo do curso Ciência da Computação e curso Formação em Tecnologia <br/>
-                na Escola DNC, com foco em desenvolvimento Web. Tenho um objetivo bem claro de <br/>
-                me tornar um desenvolvedor fullstack.Ao longo da minha jornada, pude criar projetos <br/>
-                de landing page com formularios integrados,fazendo uso das ferramentas html, css e <br/> 
-                javaScript. Ademais, faço uso frequente de Git e Github.Além disso, pude concluir alguns cursos,<br/>
+            <p>Possuo Bacharelado em Ciência da Computação, faço bootcamp de Engenharo de Software <br/>
+                na Escola DNC, com foco em desenvolvimento Web.<br/>
+                Atuo como desenvolvedor Dynamics 365, utilizando principalmente JavaScript. <br />
+                Ao longo da minha jornada, pude criar diversas páginas<br/>
+                com formularios integrados,fazendo uso das ferramentas html, css e <br/> 
+                javaScript. Ademais, faço uso frequente de Git e Github. Além disso, pude concluir alguns cursos,<br/>
                 como: Pacotes office - Esxpert cursos, AI-900 - (Inteligência Artificial) - Senai Faculdade Reges</p>
 
                 <ButtonA text='Saber mais'/>

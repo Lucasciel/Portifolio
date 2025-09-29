@@ -1,0 +1,54 @@
+.Navbar {
+    display:flex;
+    align-items: center; 
+    justify-content: space-between;
+    padding: 1em 1em 1em 20%;
+}
+
+.Navbar ul {
+    display: flex;
+    text-align: center;
+}
+
+.Navbar li {
+    list-style: none;
+    margin-right: 50px;
+    text-align: center;
+
+}
+
+.Navbar div {
+    width: 1px;
+}
+
+.Navbar a {
+    color: aliceblue !important;
+    text-decoration: none;
+}
+
+
+@media (max-width: 859px) {
+    .Navbar {
+        padding: 1em 1em 1em 0;
+    }
+    .Navbar ul {
+        padding: 0px;
+    }
+}
+
+@media (max-width: 592px) {
+    .Navbar {
+        flex-direction: column;
+    }
+    .Navbar li {
+        list-style: none;
+        margin-right: 0px;
+        text-align: center;
+    
+    }
+
+    .Navbar ul {
+        gap: 16px;
+    }
+   
+}

@@ -1,0 +1,16 @@
+
+.projects h1 {
+
+    margin-left: 10%;
+    
+}
+
+.projetos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    padding-top: 2%;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}

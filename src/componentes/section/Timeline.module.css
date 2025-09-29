@@ -1,0 +1,13 @@
+.timeline {
+    margin-top: 100px;
+}
+
+.timeline h1 {
+    padding-left: 10%;
+  
+}
+
+@media (max-width: 592px) {
+
+   
+}

@@ -1,0 +1,58 @@
+.project {
+    width: 400px;
+    padding-bottom: 20px;
+    text-align: center;
+    border-radius: 20px 0px;
+    border: 1px solid;
+    box-shadow: 0px 0px 12px -2px white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.project section {
+    text-align: center;
+}
+
+.project img {
+    margin-top: 15px;
+}
+
+.project p {
+    font-weight: bolder;
+    text-align: left;
+    margin: 20px;
+    margin-bottom: 3em;
+}
+
+.project button {
+    float: left;
+    width: 150px;
+    padding: 15px;
+    font-size: 15px;
+    margin-left: 25px;
+}
+
+@media (max-width: 398px) {
+    .project {
+        width: 100%;
+        height: 400px;
+        text-align: center;
+        border-radius: 20px 0px;
+        border: 1px solid;
+        box-shadow: 0px 0px 12px -2px white;
+    }
+
+    .project h3 {
+        font-size: 18px;
+    }
+
+    .project p {
+        margin: 10px;
+    }
+
+    .project img {
+        margin-top: 15px;
+        width: 100%;
+    }
+}

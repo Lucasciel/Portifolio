@@ -17,7 +17,7 @@ function Projects() {
                 <Project
                     image={DevNews}
                     link='https://desafiodnchtml.netlify.app/'
-                    title='Portifolio antigo'
+                    title='DevNews'
                     description='Site com noticias sobre tecnologia'
                     text='aaaa'
                 />

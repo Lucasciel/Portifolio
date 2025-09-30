@@ -48,7 +48,7 @@ function Presentation() {
             <p>Possuo Bacharelado em Ciência da Computação, faço bootcamp de Engenheiro de Software <br/>
                 na Escola DNC, com foco em desenvolvimento Web.<br/>
                 Atuo como desenvolvedor Dynamics 365, utilizando principalmente JavaScript. <br />
-                Ao longo da minha jornada, pude criar diversas páginas<br/>
+                Ao longo da minha jornada, pude criar diversas páginas web<br/>
                 com formularios integrados,fazendo uso das ferramentas html, css e <br/> 
                 javaScript. Ademais, faço uso frequente de Git e Github. Além disso, pude concluir alguns cursos,<br/>
                 como: Pacotes office - Esxpert cursos, AI-900 - (Inteligência Artificial) - Senai Faculdade Reges</p>

@@ -45,7 +45,7 @@ function Presentation() {
         <div className={style.presentation}> 
 
             <h1 id='Sobremim'>Olá, eu sou {text}</h1>
-            <p>Possuo Bacharelado em Ciência da Computação, faço bootcamp de Engenharo de Software <br/>
+            <p>Possuo Bacharelado em Ciência da Computação, faço bootcamp de Engenheiro de Software <br/>
                 na Escola DNC, com foco em desenvolvimento Web.<br/>
                 Atuo como desenvolvedor Dynamics 365, utilizando principalmente JavaScript. <br />
                 Ao longo da minha jornada, pude criar diversas páginas<br/>
